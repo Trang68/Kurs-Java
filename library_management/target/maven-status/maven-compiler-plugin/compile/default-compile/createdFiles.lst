@@ -1,0 +1,8 @@
+entity\Journal.class
+entity\Clients.class
+entity\BookTypes.class
+repository\ClientsRepository.class
+entity\Books.class
+WebApplication.class
+controller\ClientController.class
+service\ClientsServiceImpl.class
